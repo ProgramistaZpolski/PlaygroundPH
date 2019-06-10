@@ -62,8 +62,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\hIDEObject.cs" />
-    <Compile Include="Assets\NextScene.cs" />
+    <Compile Include="Assets\Scripts\hIDEObject.cs" />
+    <Compile Include="Assets\Scripts\NextScene.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/table/Documents/ProgramingHeroPlayground/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
